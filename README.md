@@ -52,7 +52,7 @@ I'm working on practical projects that combine performance marketing, data analy
 - Python for Data Analysis
 - Marketing Data Automation
 - AI-powered Marketing Workflows
-- Programmatic SEO
+- Programmatic SEO.
 
 ### 🤝 Connect With Me
 
